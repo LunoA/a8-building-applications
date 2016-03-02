@@ -26,4 +26,4 @@ Before submitting your assignment, please create a `Readme.md` file **in your re
 
 > I had a hard time with renderPlotly in serverShiny. The documentation didnt work with my code, even when I followed the pattern exactly. It took me a while of messing around to figure it out. 
 
-Please submit this GitHub repository to <a href="https://canvas.uw.edu/courses/1023398/assignments/3079013" target="_blank">Canvas</a> as your assignment, and thanks for your hard work!
+Please submit this GitHub repository to <a href="https://canvas.uw.edu/courses/1023398/assignments/3079013" target="_blank">Canvas</a> as your assignment, and thanks for your hard work!# a8-building-applications
